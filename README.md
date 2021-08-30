@@ -1,7 +1,7 @@
 # Image-processing-mini-projects-Python
 Some mini projects of image processing I wrote during my image processing course. 
 * Language: Python.
-* LibrariesL CV2, numpy
+* Libraries: CV2, numpy
   * Error_diffusion_with_Color
   * updatedError_diffusion_Algo
   * MySmooth
